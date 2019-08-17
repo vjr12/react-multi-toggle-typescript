@@ -1,0 +1,15 @@
+.toggleContainer .toggle.red {
+  background: red;
+  border-radius: 60px 60px 60px 60px
+}
+
+.toggleContainer .toggle.grey {
+  background: grey;
+  border-radius: 60px 60px 60px 60px
+}
+
+
+.toggleContainer .toggle.green {
+  background: green;
+  border-radius: 60px 60px 60px 60px
+}

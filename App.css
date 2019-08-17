@@ -1,0 +1,39 @@
+.toggleContainer .toggle.red {
+  background: red;
+  border-radius: 60px 60px 60px 60px;
+}
+
+.toggleContainer .toggle.grey {
+  background: grey;
+  border-radius: 60px 60px 60px 60px;
+}
+
+.toggleContainer .toggle.green {
+  background: green;
+  border-radius: 60px 60px 60px 60px;
+}
+
+.toggle-wrapper {
+  margin: 0.5em auto;
+  border-radius: 60px 60px 60px 60px;
+}
+.toggleContainer {
+  width: 10%;
+  position: relative;
+  background: #ffffff;
+  border: 1px solid #eeeeee;
+  border-radius: 60px 60px 60px 60px;
+}
+
+.toggleContainer .toggleOption {
+  display: inline-block;
+  position: relative;
+  z-index: 1;
+  text-align: center;
+  height: 40px;
+  line-height: 40px;
+  cursor: pointer;
+  transition: all 0.5s ease-in-out;
+  font-size: 1em;
+  font-size: 0;
+}
